@@ -136,7 +136,7 @@ THEN
     AttackReevaluate(NearestEnemyOf(Myself),35)
   RESPONSE #10
     ReallyForceSpellRES("TZPR629",LastSeenBy(Myself))
-    ReallyForceSpellRES("TZPR629",LastSeenBy(Myself)
+    ReallyForceSpellRES("TZPR629",LastSeenBy(Myself))
 	Continue()
 END
 
