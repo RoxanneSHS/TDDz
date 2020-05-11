@@ -1,6 +1,6 @@
 BACKUP ~TDDz/Backup~
 AUTHOR ~shadowlich~
-VERSION ~v1.3~
+VERSION ~v1.4~
 
 ALWAYS
 	INCLUDE ~%MOD_FOLDER%/Lib/Helpers.tpa~
