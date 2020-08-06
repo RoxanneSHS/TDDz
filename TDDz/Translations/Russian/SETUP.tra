@@ -8,20 +8,20 @@
 @901011 = ~You must have TDD - Core installed~
 
 
-@999000 = ~Calishite~
-@999001 = ~Calishite thugs~
-@999002 = ~Calishite citizen~
-@999003 = ~Calishite jailer~
+@999000 = ~Калишит~
+@999001 = ~Калишитский бандит~
+@999002 = ~Калишитский гражданин~
+@999003 = ~Калишитский заключенный~
 
-@999992 = ~Finally we have tracked you down Robillard of the Sea Sprite.~
-@999993 = ~Who are you and what do you want with him?~
-@999994 = ~He knows why I am here.~
-@999995 = ~Yes I know what you want, hired by filthy dirty pirates to take your revenge against Robillard for doing good.~
-@999996 = ~I am being a paid great bounty for your corpse and morals pay no part. Prepare to die Robillard.~
-@999997 = ~Waterdeep Pirate~
-@999998 = ~Waterdeep War Wizard~
+@999992 = ~Наконец-то мы выследили тебя, Робиллард из Морской Феи.~
+@999993 = ~Кто ты и что ты от него хочешь?~
+@999994 = ~Он знает, зачем я здесь.~
+@999995 = ~Да, я знаю, чего ты хочешь. Тебя наняли грязные пираты, чтобы отомстить Робилларду за те добрые дела, которые он совершил.~
+@999996 = ~Мне пообещали большую награду за твой труп, а за мораль мне не платят. Готовься к смерти, Робиллард.~
+@999997 = ~Пират из Вотердипа~
+@999998 = ~Боевой Маг из Вотердипа~
 
-@999999 = ~Intruders! Kill the intruders!~
+@999999 = ~Самозванцы! Бей самозванцев!~
 
 /////////////////////////////////////////////////////////////////////////////////////
 // Dialogues - unified Journal entries
