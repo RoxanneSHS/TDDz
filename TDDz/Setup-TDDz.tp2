@@ -1,6 +1,6 @@
 BACKUP ~TDDz/Backup~
 AUTHOR ~shadowlich~
-VERSION ~v1.4~
+VERSION ~v1.5~
 
 ALWAYS
 	INCLUDE ~%MOD_FOLDER%/Lib/Helpers.tpa~
@@ -140,8 +140,10 @@ COPY ~TDDz/PVRZ~ ~override~
 BEGIN @901005
 	REQUIRE_PREDICATE GAME_IS ~tob bg2ee eet~ ~~
 	REQUIRE_COMPONENT "setup-TDDz.tp2" "0" @901011
+	
+COPY ~TDDz/_ONSETOfTheDARKESTDAY/are~ ~override~	
 		
-	INCLUDE ~%MOD_FOLDER%/Lib/Importer.tpa~ 
+	INCLUDE ~%MOD_FOLDER%/Lib/Importer.tpa~
 		LAF ImportComponent STR_VAR aComp = ~ONSETOfTheDARKESTDAY~ END
 	INCLUDE ~%MOD_FOLDER%/Lib/Helpers.tpa~ 
 		LAF DeleteTempFolder STR_VAR aComp = ~ONSETOfTheDARKESTDAY~ END
